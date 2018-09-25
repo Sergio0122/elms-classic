@@ -38,7 +38,7 @@
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
 
-<preference name="phonegap-version" value="6.0.0" />
+<preference name="phonegap-version" value="6.5.0" />
   <engine name="android" spec="6.1.2" />
   <engine name="ios" spec="4.3.1" />
 
