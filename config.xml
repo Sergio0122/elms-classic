@@ -12,8 +12,8 @@
         Moodle official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://lms.evotor.ru" email="lms@evotor.ru">
+        Evotor team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
